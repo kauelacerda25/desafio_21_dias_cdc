@@ -1,4 +1,6 @@
-word = "Olá Mundo, seja bem vindo ao Desafio 21 dias da CDC!"
+# Dia 1: Escolha da linguagem principal e criação da pasta de estudos
+# aplicar as boas práticas de programação, usar o nome das variáveis em inglês.
 
-for letter in word:
-  print(letter)
+var = 'Python'
+
+print('A linguagem de programação escolhida é:', var)
